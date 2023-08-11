@@ -1,3 +1,3 @@
-### practicing gt commands
-### my name is rashmi
+### practicing git commands
+
 
