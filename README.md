@@ -1,3 +1,4 @@
-### practicing git commands
+Practice git/ python commands
+
 
 
